@@ -1,0 +1,15 @@
+	 Welcome to Flipkart Billing System
+ Bill Number:2503
+ Customer Name:Balaji C
+ Customer Phone Number:9632587410
+ Customer EMail ID:bala@gmail.com
+-------------------------------------------------------------
+ Products			 Qty	Price
+ Otto			        1      950
+ iphone13			1	89000
+
+ ---------------------------------------------------
+ Sub Amount:			Rs.89950.00
+ Tax Amount:			Rs.9.50
+ Total Amount:			Rs.89959.50
+ ---------------------------------------------------
